@@ -13,6 +13,8 @@ Matlab code is provided in the file 'AdverseEventsInDifferentCountries.m'.
 
 ## Output 
 
+Two excel files contain the list of reaction pairs and country pairs that have a Pearson correlation coefficient greater than 0.8.
+
 The folder 'Visualisations' contains the following output:
 
 * CountriesThatAreTopTenReporters.png: A plot showing the frequency with which a given country appears as one of the 'top 10' reporting countries for that event. Only 25 countries create this set. 
